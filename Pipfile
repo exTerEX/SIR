@@ -11,5 +11,5 @@ pytest = { version = "*" }
 [packages]
 numpy = { version = "==1.20.2" }
 scipy = { version = "==1.6.1" }
-matplotlib = { version = "==3.3.4" }
+matplotlib = { version = "==3.4.1" }
 pillow = ">=8.1.1"
